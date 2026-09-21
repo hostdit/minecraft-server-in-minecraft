@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+run-server/
+logs/
+src/test/
+*.DS_Store
+hs_err_*.log
+*.hprof
+*.jfr

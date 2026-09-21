@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "dev.hostd.mcinmc.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ComparatorBlockMixin",
+		"ServerWorldMixin"
+	],
+	"client": [
+		"IntegratedServerAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
